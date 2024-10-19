@@ -4,9 +4,6 @@
 The Android Movies App lets users explore and view detailed information about movies, including titles, ratings, and release dates. Built using Kotlin and following the MVVM architecture, the app fetches movie data from The Movie Database (TMDb) API.
 
 
-#### Note: Make sure to add your API key in the gradle.properties file:
-
-API_KEY=
 
 ### Screenshots
 
@@ -16,3 +13,7 @@ API_KEY=
   <img src="3.png" alt="Screenshot 3" width="200"/>
 
 </div>
+
+
+#### Note: Make sure to add your API key in the gradle.properties file.
+
