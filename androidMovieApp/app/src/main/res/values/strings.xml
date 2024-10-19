@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">android Movie App</string>
+    <string name="movie_details_text">Movie Details Screen</string>
+    <string name="lets_get_started">Let\'s Get Started</string>
+    <string name="text_18">+18</string> Rating: 5.76
+    <string name="rating_text">Rating:   </string>
+
+    <string name="image_base_url" tools:ignore="DuplicateDefinition">https://image.tmdb.org/t/p/w200</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_date">Release Date</string>
+
+</resources>

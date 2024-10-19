@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme without ActionBar (Material3 DayNight). -->
+    <style name="Base.Theme.AndroidMovieApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <style name="Theme.AndroidMovieApp" parent="Base.Theme.AndroidMovieApp" />
+
+    <style name="Theme.AndroidMovieApp.MovieDetails" parent="Theme.Material3.DayNight">
+    </style>
+</resources>
